@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Leyon04.github.io/gitHub_portfolio_leyonPaul",
+  "homepage": "https://IlanguNgo.github.io/gitHub_portfolio_leyonPaul",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
